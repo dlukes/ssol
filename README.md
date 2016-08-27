@@ -73,6 +73,7 @@ Summary of regex syntax based on the [NLTK Book](http://www.nltk.org/book/ch03.h
           # computer's idea about what a word character is might
           # be different from yours)
 \d   \D   # Matches any (non-)digit character
+\s   \S   # Matches any (non-)space character
 \p{...}   # Matches any character with Unicode property ...
 \P{...}   # Matches any character without Unicode property ...
 ^abc      # Matches some pattern abc at the start of a string
