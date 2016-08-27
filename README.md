@@ -28,6 +28,8 @@ If need be, don't be shy and ask for help!
 
 ### Regular expressions
 
+See day 4 notebook for a guided tour of regular expressions.
+
 Code for an interactive regex matcher inside a Jupyter notebook:
 
 ```python
