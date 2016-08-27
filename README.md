@@ -4,7 +4,13 @@ Summer School of Linguistics 2016
 Python for linguists: An introductory phrasebook
 ------------------------------------------------
 
-Course materials and additional information.
+Course materials and additional information. The notebooks with the code from
+the respective days are available in the `notebooks` folder. Download them and
+open them from within Jupyter (start Jupyter from the Anaconda Navigator). Some
+of them (particularly the later ones) have been extended with additional
+commentary to make them more self-explanatory. Much of the material is **borrows
+examples and code from the [NLTK Book](http://www.nltk.org/book/)**, which is
+hereby **gratefully acknowledged**.
 
 ### Setup
 
@@ -20,8 +26,7 @@ Course materials and additional information.
 
 If need be, don't be shy and ask for help!
 
-Regular expressions
--------------------
+### Regular expressions
 
 Code for an interactive regex matcher inside a Jupyter notebook:
 
