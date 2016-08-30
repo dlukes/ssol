@@ -11,7 +11,8 @@ from within Jupyter (start Jupyter from the Anaconda Navigator). Some of them
 (particularly the later ones) have been extended with additional commentary to
 make them more self-explanatory. Much of the material **borrows examples and
 code from the [NLTK Book](http://www.nltk.org/book/)**, which is hereby
-**gratefully acknowledged**.
+**gratefully acknowledged** and recommended as a great resource to pick up where
+we left off.
 
 ### Setup
 
